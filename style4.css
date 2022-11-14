@@ -1,0 +1,32 @@
+.content2 {
+margin: 0 auto;
+width: 500px;
+height: 200px;
+background-color: #333;
+color: red;
+}
+#lk{
+text-align: center;
+padding-top: 15px;
+}
+
+#select {
+margin-top: 10px;
+}
+.content1 {
+color: red;
+max-width:600px;
+background-color: #333;
+text-align: center;
+height: 300px;
+margin: 0 auto;
+}
+#result1, #result {
+font-size: 35px;
+font-weight: bold;
+margin: 0 auto;
+}
+body {
+background-color: black;
+margin: 100px;
+}
